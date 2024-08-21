@@ -1,0 +1,240 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Multisyllabic words",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The word \"label\" has an \"open\" first syllable.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The first syllable \"la\" in the word \"label\" is an open syllable because it ends with the vowel sound \"a\"."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which syllable in \"admit\" is open?",
+          "options": [
+            "ad",
+            "mit",
+            "Both a and b",
+            "None of the above"
+          ],
+          "answer": 3,
+          "explanation": "\"Ad\" ends in a consonant, making it a closed syllable. \"Mit\" ends in a consonant, making it a closed syllable."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word is spelled correctly according to the syllables \"um-brel-la\"?",
+          "options": [
+            "Umbralle",
+            "Umbrella",
+            "Umberella",
+            "Umbralla"
+          ],
+          "answer": 1,
+          "explanation": "\"Umbrella\" is spelled with \"um-brel-la\" for its three syllables."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the words follow the \"consonant with i-e\" pattern?",
+          "options": [
+            "Dice",
+            "Kite",
+            "Ride",
+            "All of the above"
+          ],
+          "answer": 3,
+          "explanation": "These words have a consonant-vowel-consonant-e (CVCe) pattern, where the silent final \"e\" makes the vowel before it a long vowel sound."
+        },
+        {
+          "questionNo": 5,
+          "question": "There is a long “I” sound in words like “sit” and “pit”.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "In words like \"sit\" and \"pit,\" the vowel sound is actually a short \"i\" sound."
+        },
+        {
+          "questionNo": 6,
+          "question": "How do you spell the word for a machine that washes clothes?",
+          "options": [
+            "Washingmachine",
+            "Washing machine",
+            "Washmashine",
+            "Washmachine"
+          ],
+          "answer": 1,
+          "explanation": "\"Washing machine\" is two separate words, with \"wash-ing\" (2 syllables) and \"ma-chine\" (2 syllables)."
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the word with an \"open\" first syllable.",
+          "options": [
+            "Backing",
+            "Bassoon",
+            "Canal",
+            "Salad"
+          ],
+          "answer": 3,
+          "explanation": "The first syllable \"sa\" in the word \"salad\" is an open syllable because it ends with the vowel sound \"a\"."
+        },
+        {
+          "questionNo": 8,
+          "question": "The word \"cabin\" has a \"closed\" first syllable.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The first syllable \"cab\" in the word \"cabin\" is a closed syllable because it ends with the consonant sound \"b\"."
+        },
+        {
+          "questionNo": 9,
+          "question": "This four-syllable word “tel-e-vi-sion” forms the spelling:",
+          "options": [
+            "television",
+            "television",
+            "television",
+            "none of the above"
+          ],
+          "answer": 1,
+          "explanation": "\"Television\" has four syllables: tel-e-vi-sion."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which of the following has an “open” first syllable?",
+          "options": [
+            "hab-it",
+            "rad-ish",
+            "sal-on",
+            "ha-lo"
+          ],
+          "answer": 3,
+          "explanation": "The first syllable is \"ha\", which ends with a vowel \"a\". This is an open syllable."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of the following has a “closed” first syllable?",
+          "options": [
+            "lem-on",
+            "sub-tract",
+            "de-tail",
+            "none of the above"
+          ],
+          "answer": 2,
+          "explanation": "The first syllable is \"de\", which ends with a vowel \"e\". This is an open syllable."
+        },
+        {
+          "questionNo": 12,
+          "question": "Multisyllabic words are words that have only one syllable.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The prefix \"multi-\" in the term \"multisyllabic\" means \"many\" or \"multiple.\" Therefore, multisyllabic words refer to words with more than one syllable."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word follows the \"consonant with i-e\" pattern?",
+          "options": [
+            "Quick",
+            "Hide",
+            "Bring",
+            "Fit"
+          ],
+          "answer": 1,
+          "explanation": "In \"Hide\", the consonant is \"h\", followed by \"i\" and \"e\" (hi-de), making the vowel \"i\" long."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which of the following has a “closed” first syllable?",
+          "options": [
+            "cup-ful",
+            "crush-er",
+            "pun-ish",
+            "all of the above"
+          ],
+          "answer": 3,
+          "explanation": "A \"closed\" syllable ends with a consonant sound, which typically makes the preceding vowel short."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of the following has an “open” first syllable?",
+          "options": [
+            "cu-bic",
+            "sub-tract",
+            "tun-nel",
+            "none of the above"
+          ],
+          "answer": 0,
+          "explanation": "The word \"cu-bic\" has an open first syllable \"cu\", where the vowel sound /u/ is not closed off by a consonant."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word follows the \"consonant with i-e\" pattern?",
+          "options": [
+            "Drill",
+            "Slight",
+            "Tin",
+            "Shine"
+          ],
+          "answer": 3,
+          "explanation": "In \"Shine\", the consonant is \"sh\", followed by \"i\" and \"e\" (shi-ne), making the vowel \"i\" long."
+        },
+        {
+          "questionNo": 17,
+          "question": "The word “unfit” has an “open” first syllable.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The first syllable \"un\" ends with a consonant sound \"n\". This makes it a closed syllable, not an open one."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word follows the \"consonant with i-e\" pattern?",
+          "options": [
+            "Sit",
+            "Spice",
+            "Swim",
+            "Brick"
+          ],
+          "answer": 1,
+          "explanation": "In \"Spice\", the consonant is \"s\", followed by \"p\", \"i\", and \"e\" (spi-ce), making the vowel \"i\" long."
+        },
+        {
+          "questionNo": 19,
+          "question": "How do you spell the word \"pump-kin\" for its two syllables?",
+          "options": [
+            "Pumkin",
+            "Pumpken",
+            "Pumpkin",
+            "Pompkin"
+          ],
+          "answer": 2,
+          "explanation": "\"Pumpkin\" is spelled with \"pump-kin\" for its two syllables."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word does not follow the \"consonant with i-e\" pattern?",
+          "options": [
+            "Desk",
+            "Rise",
+            "Hide",
+            "Slide"
+          ],
+          "answer": 0,
+          "explanation": "The word “Desk” does not follow the \"consonant with i-e\" pattern as it does not have a long i vowel sound."
+        }
+      ]
+    }
+  ]
+}
